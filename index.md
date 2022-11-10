@@ -31,14 +31,22 @@ gallery:
 ## ARAÇÁ
 <b>A</b>tlantic forest <b>R</b>esearch <b>A</b>nd <b>C</b>onservation <b>A</b>lliance
 
-The Atlantic forest Research And Conservation Alliance (ARAÇÁ) is a not-for-profit scientific partnership centred on Sitio Bacchus, a privately-owned reserve near Nova Friburgo (Rio de Janeiro, Brazil). See the exact location [here](https://goo.gl/maps/MCzsNeSG9M63zWpN9).
+For millions of years, the entire eastern coast of what is today Brazil was covered by an exceedingly diverse biome: the Atlantic Rainforest. But only over the last two hundred years or so, the expansion of agriculture, cities and roads, combined with the exploitation of the rainforest's precious wood, have led to over [92% of this forest being lost](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.12989).
 
-Our aim is to unlock knowledge in a megadiverse nucleus of Brazil’s Atlantic Rainforest by promoting collaborations, fostering discovery-driven research and conservation, and catalysing training and education. 
+Growing up in Brazil, I would often visit those forests – still considered a Global Biodiversity Hotspot – and fell in love with their nature. But I also witnessed first-hand how rapidly they were disappearing, and decided to do everything I possibly could to help save them.   
 
-To do this, we will establish partnerships with local and international collaborators and researchers to collect baseline knowledge of all biodiversity on the site and conduct short- and long-term research projects, monitoring programmes and conservation initiatives. 
+This is why my wife Anna and I decided to use our family savings to purchase 120 hectares of pristine forest in one of the last remnaining nuclei, to set up a hub for rainforest conservation and research. We will work hard with partners and supports with the goal of seeing the 8% of remaining forest double its extent during our lifetime.  
 
-One of the first initiatives is participation in the Project [LIFEPLAN](https://www2.helsinki.fi/en/projects/lifeplan) – A Planetary Inventory of Life, which aims to become the most ambitious, globally distributed and systematically collected data set to date on a broad range of taxonomical groups. Additional projects are being developed by our team and we are also open to new proposals and expressions of interest to collaborate. 
+We are therefore setting up the Atlantic forest Research And Conservation Alliance (ARAÇÁ), a not-for-profit scientific partnership centred on Sitio Bacchus, our privately-owned reserve near Nova Friburgo (Rio de Janeiro, Brazil). See the exact location [here](https://goo.gl/maps/MCzsNeSG9M63zWpN9).
+
+ARAÇÁ's aim is to unlock knowledge in a megadiverse nucleus of Brazil’s Atlantic Rainforest by promoting collaborations, fostering discovery-driven research and conservation, and catalysing training and education. 
+
+To do this, we will establish partnerships with local, national and international collaborators and researchers to collect baseline knowledge of all biodiversity on the site and conduct short- and long-term research projects, monitoring programmes and conservation initiatives. These data will help us [identify priority areas for conservation and restoration](https://www.captain-project.net/). 
+
+One of the first initiatives is participation in the Project [LIFEPLAN](https://www2.helsinki.fi/en/projects/lifeplan) – A Planetary Inventory of Life, which is probably the most ambitious, globally distributed and systematically collected data set to date on a broad range of taxonomical groups. Additional projects are being developed by our team and we are also open to new proposals and expressions of interest to collaborate. 
 
 It is early days for this project (which began in January 2022) and we will further develop this homepage and its contents over time. 
+
+Alex & Anna Antonelli
 
 {% include gallery layout="half" caption="Sitio Bacchus, Rio de Janeiro, Brazil" %}
