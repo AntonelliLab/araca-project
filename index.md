@@ -35,13 +35,13 @@ For millions of years, the entire eastern coast of what is today Brazil was cove
 
 Growing up in Brazil, I would often visit those forests – still considered a Global Biodiversity Hotspot – and fell in love with their nature. But I also witnessed first-hand how rapidly they were disappearing, and decided to do everything I possibly could to help save them.   
 
-This is why my wife Anna and I decided to use our family savings to purchase 120 hectares of pristine forest in one of the last remnaining nuclei, to set up a hub for rainforest conservation and research. We will work hard with partners and supports with the goal of seeing the 8% of remaining forest double its extent during our lifetime.  
+This is why my wife Anna and I decided to use our family savings to purchase 120 hectares of pristine forest in one of the last remnaining nuclei, to set up a new centre for rainforest conservation and research. We now wish to find identify partners and supporters with the goal of seeing the 8% of remaining forest double its extent during our lifetime, through conservation and restoration efforts that embrace the needs of local people and support a more sustainable stewardship of land and natural resources.  
 
-We are therefore setting up the Atlantic forest Research And Conservation Alliance (ARAÇÁ), a not-for-profit scientific partnership centred on Sitio Bacchus, our privately-owned reserve near Nova Friburgo (Rio de Janeiro, Brazil). See the exact location [here](https://goo.gl/maps/MCzsNeSG9M63zWpN9).
+We are therefore setting up the Atlantic forest Research And Conservation Alliance (ARAÇÁ), a not-for-profit partnership centred on Sitio Bacchus, our privately-owned reserve near Nova Friburgo (Rio de Janeiro, Brazil). See the exact location [here](https://goo.gl/maps/MCzsNeSG9M63zWpN9).
 
 ARAÇÁ's aim is to unlock knowledge in a megadiverse nucleus of Brazil’s Atlantic Rainforest by promoting collaborations, fostering discovery-driven research and conservation, and catalysing training and education. 
 
-To do this, we will establish partnerships with local, national and international collaborators and researchers to collect baseline knowledge of all biodiversity on the site and conduct short- and long-term research projects, monitoring programmes and conservation initiatives. These data will help us [identify priority areas for conservation and restoration](https://www.captain-project.net/). 
+To create a solid knowledge base for conservation and restoration, and support professional and educational training, we will establish partnerships with local, national and international collaborators and researchers to collect baseline knowledge of all biodiversity on the site and conduct short- and long-term research projects, monitoring programmes and conservation initiatives. These data will help us [identify priority areas for conservation and restoration](https://www.captain-project.net/). 
 
 One of the first initiatives is participation in the Project [LIFEPLAN](https://www2.helsinki.fi/en/projects/lifeplan) – A Planetary Inventory of Life, which is probably the most ambitious, globally distributed and systematically collected data set to date on a broad range of taxonomical groups. Additional projects are being developed by our team and we are also open to new proposals and expressions of interest to collaborate. 
 
