@@ -45,6 +45,8 @@ To create a solid knowledge base for conservation and restoration, and support p
 
 One of the first initiatives is participation in the Project [LIFEPLAN](https://www2.helsinki.fi/en/projects/lifeplan) – A Planetary Inventory of Life, which is probably the most ambitious, globally distributed and systematically collected data set to date on a broad range of taxonomical groups. Additional projects are being developed by our team and we are also open to new proposals and expressions of interest to collaborate. 
 
+Are you interested in contributing to this initiative financially or scientifically? Please get in touch! See contact details [here](https://www.araca-project.org/about/).
+
 It is early days for this project (which began in January 2022) and we will further develop this homepage and its contents over time. 
 
 Alex & Anna Antonelli
