@@ -35,7 +35,7 @@ For millions of years, the entire eastern coast of what is today Brazil was cove
 
 Growing up in Brazil, I would often visit those forests – still considered a Global Biodiversity Hotspot – and fell in love with their nature. But I also witnessed first-hand how rapidly they were disappearing, and decided to do everything I possibly could to help save them.   
 
-This is why my wife Anna and I decided to use our family savings to purchase 120 hectares of pristine forest in one of the last remnaining nuclei, to set up a new centre for rainforest conservation and research. We now wish to find identify partners and supporters with the goal of seeing the 8% of remaining forest double its extent during our lifetime, through conservation and restoration efforts that embrace the needs of local people and support a more sustainable stewardship of land and natural resources.  
+This is why my wife Anna and I decided to use our family savings to purchase 120 hectares of pristine forest in one of the last remnaining nuclei, to set up a new centre for rainforest conservation and research. We now wish to identify partners and supporters with the goal of seeing the 8% of remaining forest considerably expand its extent during our lifetime, through conservation and restoration efforts that embrace the needs of local people and support a more sustainable stewardship of land and natural resources.  
 
 We are therefore setting up the Atlantic forest Research And Conservation Alliance (ARAÇÁ), a not-for-profit partnership centred on Sitio Bacchus, our privately-owned reserve near Nova Friburgo (Rio de Janeiro, Brazil). See the exact location [here](https://goo.gl/maps/MCzsNeSG9M63zWpN9).
 
