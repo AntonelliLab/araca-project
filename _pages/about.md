@@ -20,7 +20,7 @@ Contact: anna [at] sveide.se
 
 Anna has over 30 years of experience within the Swedish healthcare system, initially working as a nurse specialised in psychiatry but over the last 12 years working as a consultant, founder, leader and managing director for several complex organisations within the private and public sectors across the country. Her leadership style has been widely acclaimed and the organisations she has been responsible for have excelled in national comparisons. Focusing on measurable outcomes for patients, she has had a strong focus on quality and productivity, and worked with processes that maximise efficiency and return on investments. She is currently Head of Department at the Sahlgrenska University Hospital in Gothenburg. In March 2023, she and her husband Alex founded the Antonelli Foundation for Biodiversity Research and Conservation. **Role at ARAÇÁ:** overall responsibility for management, infrastructures, staffing, sustainability and productivity.  
  
-{% include figure image_path="/assets/images/Thomas-Berg.png" alt="Thomas" %}
+{% include figure image_path="/assets/images/Thomas_Berg.png" alt="Thomas" %}
 
 **Thomas Berg, General Manager**
 
