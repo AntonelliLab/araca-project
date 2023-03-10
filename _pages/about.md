@@ -4,7 +4,7 @@ permalink: /about/
 title: "Meet our team"
 ---
 
-<img align="left" src="/assets/images/Alexandre-Antonelli.jpg" width="300">
+<img align="left" src="/assets/images/Alexandre-Antonelli-full.jpg" width="300">
 
 **Alexandre Antonelli, Co-Leader** | Contact:  antonelli.bio [at] gmail.com
 
@@ -13,7 +13,7 @@ Alex has over 20 years of experience in biodiversity research and conservation. 
 &nbsp;
 ***
 
-<img align="left" src="/assets/images/Anna-Antonelli.jpg" width="300">
+<img align="left" src="/assets/images/Anna-Antonelli-full.jpg" width="300">
 
 **Anna Antonelli, Co-Leader**  | Contact: anna [at] sveide.se
 
@@ -22,7 +22,7 @@ Anna has over 30 years of experience within the Swedish healthcare system, initi
 &nbsp;
 ***
  
-<img align="left" src="/assets/images/Thomas_Berg.jpg" width="300">
+<img align="left" src="/assets/images/Thomas-Berg-full.jpg" width="300">
 **Thomas Berg, General Manager** | Contact: thomas.olof.berg [at] gmail.com
 
 Thomas holds a BA in ecology from the Federal University of Rio Grande do Sul (Brazil), a MSc in Marine Biology from the University of Lund (Sweden) and PhD in Plant Ecophysiology and Climate Change from the University of Gothenburg (Sweden). He has worked for many years as a consultant in the aquaculture and sustainable agriculture sectors, and has lived in several countries in South America, Europe, Asia and Africa. He owns The Natural Media, a company that works with science communication and media, teaching students, researchers and educators to better communicate their work and research using audiovisual tools. **Role at ARAÇÁ:** Day-to-day management of all activities, including the reception of researchers and students at the Bacchus site, supporting infrastructural development, engaging with local stakeholders, dealing with legal procedures and reports, among others. 
