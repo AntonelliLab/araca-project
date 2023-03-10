@@ -17,10 +17,10 @@ Contact: anna [at] sveide.se
 Anna has over 30 years of experience within the Swedish healthcare system, initially working as a nurse specialised in psychiatry but over the last 12 years working as a consultant, founder, leader and managing director for several complex organisations within the private and public sectors across the country. Her leadership style has been widely acclaimed and the organisations she has been responsible for have excelled in national comparisons. Focusing on measurable outcomes for patients, she has had a strong focus on quality and productivity, and worked with processes that maximise efficiency and return on investments. She is currently Head of Department at the Sahlgrenska University Hospital in Gothenburg. In March 2023, she and her husband Alex founded the Antonelli Foundation for Biodiversity Research and Conservation. **Role at ARAÇÁ:** overall responsibility for management, infrastructures, staffing, sustainability and productivity.  
  
  
-**Thomas Berg, Project Manager**
+**Thomas Berg, General Manager**
 
 Contact: thomas.olof.berg [at] gmail.com
 
-Thomas has a mixed Brazilian and Swedish background, and obtained a Phd in environmental sciences at the University of Gothenburg, Sweden. He has many years of experience running complex projects in Brazil, China, Sweden and Mozambique. **Role at ARAÇÁ:** Day-to-day management of all activities, including the reception of researchers and students at the Bacchus site, supporting infrastructural development, etc.   
+Thomas holds a PhD in Plant Ecophysiology and Climate Change from the University of Gothenburg (Sweden), a MSc in Marine Biology from the University of Lund (Sweden), and a BA in ecology from UFRGS (Brazil). He has worked for many years as a consultant in the aquaculture and sustainable agriculture sectors, and has lived in several countries in South America, Europe, Asia and Africa. He owns The Natural Media, a company that works with science communication and media, teaching students, researchers and educators to better communicate their work and research using audiovisual tools. **Role at ARAÇÁ:** Day-to-day management of all activities, including the reception of researchers and students at the Bacchus site, supporting infrastructural development, engaging with local stakeholders, dealing with legal procedures and reports, among others. 
 
 
