@@ -54,13 +54,13 @@ We strive to use every donation as effectively as possible, with nearly all fund
 
 All finances are reported on an annual basis and will be made available from this website. 
 
-Donations can be made through bank transfers to the registered Swedish charity Antonelli Foundation for Biodiversity Research and Conservation: 
+Donations can be made through bank transfers to the registered Swedish charity <b>Antonelli Foundation for Biodiversity Research and Conservation</b>: 
 
 <b>From Sweden:</b>
 Account number: 5004-11 085 23
 Bankgiro number: 127-7292
 
-<b>From other countries: </b>
+<b>From other countries:</b>
 IBAN: SE5450000000050041108523
 Bic-code: ESSESESS
 
@@ -69,13 +69,12 @@ SEB
 106 40 Stockholm
 Sweden
 
-![image](https://user-images.githubusercontent.com/5909431/226057783-2b9863a6-3c56-4bdb-8ff0-f1dd87004d10.png)
-
-
 Any questions or suggestions? Please get in touch! See contact details [here](https://www.araca-project.org/about/)
 
 It is early days for this project (which began in January 2022) and we will further develop this homepage and its contents over time. 
 
 Alex & Anna Antonelli
+
+![image](https://user-images.githubusercontent.com/5909431/226057783-2b9863a6-3c56-4bdb-8ff0-f1dd87004d10.png)
 
 {% include gallery layout="half" caption="Sitio Bacchus, Rio de Janeiro, Brazil" %}
